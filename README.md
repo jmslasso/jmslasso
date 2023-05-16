@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React Native for mobile apps.
 - 📫 How to reach me:
-  [https://www.linkedin.com/in/juan-manuel-l-0560bb140/](https://www.linkedin.com/in/jmslasso/)
+  [https://www.linkedin.com/in/jmslasso/]
   
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
