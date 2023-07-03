@@ -1,10 +1,10 @@
 <h1>About Me!</h1>
 
 <img align="center" alt="Coding" width="1200" src="banner.png">
-<h2 align="center"> I'm a junior fullstack developer from Popayán, Colombia. I like very much create web apps with React.js, easy to use, and developed with the best practices. 👋🧑‍💻</h2>
+<h2 align="center"> I'm a fullstack developer born in Popayán, Colombia and living in Medellin. I like very much create web apps with React.js, easy to use, and developed with the best practices. 👋🧑‍💻</h2>
 
 
-- 🌱 I’m currently learning React Native for mobile apps.
+- 🌱 I’m currently learning React Native for mobile apps, Swift for iOS apps, also mastering DevOps abilities.
 - 📫 How to reach me:
   [https://www.linkedin.com/in/jmslasso/]
   
