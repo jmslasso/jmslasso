@@ -1,7 +1,7 @@
 <h1>About Me!</h1>
 
 <h2>Hello! I'm a Fullstack Developer</h2>
-Background
+<h3>Background</h3>
 Born in Popayán, Colombia, and currently residing in Medellín, I am passionate about crafting seamless and user-friendly web applications using React.js. I always strive to follow best practices to ensure my apps are not only functional but also maintainable and scalable. 👋🧑‍💻
 
 Currently Learning
