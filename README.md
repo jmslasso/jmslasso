@@ -1,8 +1,9 @@
 <h1>About Me!</h1>
 
-<h2>Hello! I'm a Fullstack Developer</h2>
+<h2>Hello! I'm a Senior Fullstack Developer</h2>
 <h3>Background</h3>
-Born in Popayán, Colombia, and currently residing in Medellín, I am passionate about crafting seamless and user-friendly web applications using React.js. I always strive to follow best practices to ensure my apps are not only functional but also maintainable and scalable. 👋🧑‍💻
+Born in Popayán, Colombia, and currently residing in Medellín, I am passionate about crafting seamless and user-friendly web applications using React.js. I always strive to follow best practices to ensure my apps are not only functional but also maintainable and scalable. I have been working with Swedish companies delivering important projects for global clients, currently working as a Senior Engineer at Nielsen IQ. 👋🧑‍💻
+
 
 Currently Learning
 🌱 Expanding my skills in mobile app development and React plus Wordpress and Hubspot integrations
