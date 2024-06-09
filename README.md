@@ -1,10 +1,14 @@
 <h1>About Me!</h1>
 
-<img align="center" alt="Coding" width="1200" src="banner.png">
-<h2 align="center"> I'm a fullstack developer born in Popayán, Colombia and living in Medellin. I like very much create web apps with React.js, easy to use, and developed with the best practices. 👋🧑‍💻</h2>
+<h2>Hello! I'm a Fullstack Developer</h2>
+Background
+Born in Popayán, Colombia, and currently residing in Medellín, I am passionate about crafting seamless and user-friendly web applications using React.js. I always strive to follow best practices to ensure my apps are not only functional but also maintainable and scalable. 👋🧑‍💻
 
-
-- 🌱 I’m currently learning React Native for mobile apps, Swift for iOS apps, also mastering DevOps abilities.
+Currently Learning
+🌱 Expanding my skills in mobile app development and React plus Wordpress and Hubspot integrations
+🌱 Mastering DevOps practices to streamline and enhance the development and deployment processes.
+Connect with Me
+📫 Feel free to reach out via LinkedIn
 - 📫 How to reach me:
   [https://www.linkedin.com/in/jmslasso/]
   
